@@ -1,3 +1,3 @@
-import parseOkno from 'src/parse.js';
+import toStart from 'src/parse.js';
 
-parseOkno();
+toStart();
